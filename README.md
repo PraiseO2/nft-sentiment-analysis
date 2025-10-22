@@ -29,3 +29,5 @@ Our research paper can be viewed [here](https://github.com/taradactyl27/nft-sent
 - `features.csv`: This is the main features file that is used as input for data preprocessing before being inputted to models.
 - `collections.csv`: This is the list of NFT collections that we compiled and labeled. Additional projects can be added, and we encourage you to add, following the format inside the file.
 - `nftsentiment.ipynb`: Main Jupyter Notebook
+
+- ##DYOR
